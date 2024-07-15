@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality sound with noise-cancellation features.",
+      "price": 85.50,
+      "image": "./images/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ergonomic Chair",
+      "description": "Comfortable and stylish office chair with lumbar support.",
+      "price": 150.00,
+      "image": "./images/chair.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Smartwatch",
+      "description": "Stay connected with a sleek new smartwatch.",
+      "price": 199.99,
+      "image": "./images/smartwatch.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Portable Charger",
+      "description": "Reliable and compact portable charging solution.",
+      "price": 25.99,
+      "image": "./images/charger.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bluetooth Speaker",
+      "description": "Portable speaker with exceptional sound quality and durability.",
+      "price": 99.99,
+      "image": "./images/speaker.jpg"
+    },
+
+    {
+      "id": 7,
+      "name": "Digital Camera",
+      "description": "Capture life's moments with high clarity and color accuracy.",
+      "price": 449.50,
+      "image": "./images/camera.jpg"
+    }
+  ]
+}
